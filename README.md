@@ -17,11 +17,11 @@ It extracts genres from the dataset, counts their frequency, and visualizes the 
 ## Visualization
 The script generates a bar chart showing genre counts:
 
-![Genre Count Bar Plot](Figure_1.png)
+![Genre Count Bar Plot](figure/Figure_1.png)
 
 The figure file is located at:
 ```
-Figure_1.png
+figure/Figure_1.png
 ```
 
 ## Requirements
